@@ -1,2 +1,2 @@
-# stripebot
-It is a stripe checker cc bot for telegram
+# CC CHECKER BOT
+It is a CC checker cc bot for telegram
